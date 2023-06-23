@@ -18,6 +18,13 @@
 # 4 4 -> 2 2
 # 5 6 -> 2 3
 
+# S = int(input('введите сумму чисел: '))
+# P = int(input('введите произведение чисел: '))
+# flag = False 
+# for i in range(1,1000):
+#     for j in range(1,1000):
+#         if P % i == 0 and P % j == 0 and i + j == S:
+#             print(i , j)
 
 
 
@@ -26,6 +33,12 @@
 
 # 10 -> 1 2 4 8
 
-count = int(input('Введите степень числа: '))
-
-
+# N = int(input('Введите число N: '))
+# number = 2
+# print(number**0)
+# print(number)
+# while True:
+#     number *= 2
+#     print(number)
+#     if N < number * 2:
+#         break
